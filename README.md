@@ -65,9 +65,6 @@
     <li><strong>Password:</strong> admin</li>
   </ul>
   
-<h2>Contributors </h2>
-
-We would like to thank the following contributors for their valuable contributions to this project:
-
-- Amruta-Jagatap
+<h2>Connect </h2>
+For this project email us on tipsrndprojects@gmail.com
   
